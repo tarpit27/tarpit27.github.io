@@ -4,8 +4,8 @@ html,body{
 	width: 100%;
 }
 .child{
+	color: red;
 	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
-	color: red;
 }
