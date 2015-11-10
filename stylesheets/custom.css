@@ -1,11 +1,3 @@
-html,body{
-	display: table;
-	height: 100%;
-	width: 100%;
-}
-.child{
-	color: red;
-	display: table-cell;
-	vertical-align: middle;
-	text-align: center;
+.bg-1{
+	background-color: tomato;
 }
