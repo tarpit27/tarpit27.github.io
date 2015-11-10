@@ -1,3 +1,6 @@
 .bg-1{
-	background-color: red;
+	background-color: tomato;
+}
+.jumbotron{
+	padding: 5%;
 }
