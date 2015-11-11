@@ -14,7 +14,8 @@ body{
 .navbar{
 	margin-bottom: 0;
 	letter-spacing: 5px;
+	border-radius: 0;
 }
 .navbar li:hover{
-	color: #2dbfd8;
+	color: #2dbfd8 !important;
 }
