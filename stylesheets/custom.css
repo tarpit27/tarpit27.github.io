@@ -16,6 +16,6 @@ body{
 	letter-spacing: 5px;
 	border-radius: 0;
 }
-.navbar li:hover{
+.navbar-nav li a:hover{
 	color: #2dbfd8 !important;
 }
