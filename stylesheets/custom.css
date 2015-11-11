@@ -4,7 +4,7 @@
 }
 .jumbotron{
 	padding: 10%;
-	font-family: Montserrat;
+	font-family: Montserrat, sans-serif;
 }
 .jumbotron h2{
 	color: white;
